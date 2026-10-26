@@ -1,0 +1,3 @@
+[submodule "KiCad-lib"]
+	path = KiCad-lib
+	url = git@github.com:Georgia-Tech-GNC/KiCad-lib.git
