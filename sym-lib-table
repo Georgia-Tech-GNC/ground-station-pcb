@@ -3,4 +3,5 @@
 	(lib (name "AP64500") (type "KiCad") (uri "${KIPRJMOD}/local_lib/symbols/2026-11-03_00-17-56.kicad_sym") (options "") (descr ""))
 	(lib (name "USB_TYPE_C_SHOU_HAN_6P") (type "KiCad") (uri "${KIPRJMOD}/local_lib/symbols/TYPE-C_6P.kicad_sym") (options "") (descr ""))
 	(lib (name "TPS2121") (type "KiCad") (uri "${KIPRJMOD}/local_lib/symbols/2026-11-05_00-58-13.kicad_sym") (options "") (descr ""))
+	(lib (name "INA220") (type "KiCad") (uri "${KIPRJMOD}/local_lib/symbols/2026-11-06_01-55-56.kicad_sym") (options "") (descr ""))
 )
