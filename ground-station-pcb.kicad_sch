@@ -7596,7 +7596,7 @@
 		)
 		(uuid "3911220d-b117-4874-8479-50c0285caa70")
 	)
-	(label "GPIO23"
+	(label "ADC_INT"
 		(at 92.71 43.18 180)
 		(effects
 			(font
@@ -13497,7 +13497,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8038ddd7-d3b7-4663-920a-d215e7900c20")
 		(property "Reference" "U1"
 			(at 171.958 44.45 0)
